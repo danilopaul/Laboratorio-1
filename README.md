@@ -1,7 +1,7 @@
 # Laboratorio-1
 1.Objetivo
 
-1.1 Objetivo Generz
+1.1 Objetivo Generz.
 
 Diseñar un circuito electrónico que cumpla con las características necesarias en las que se pueda representar y reflejar el cálculo de 
 de distintas variables, mismas que permitan comprobar , si se cumple o no las leyes de Kirchhoff.
