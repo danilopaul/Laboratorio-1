@@ -12,7 +12,7 @@ de distintas variables, mismas que permitan comprobar , si se cumple o no las le
 -  Determinar si las leyes de Kirchhoff se llegan a cuml en el calculo de las trayectorias cerradas y de las corrientes en cada nodo.
 -  Relacionar las letes de kirchhoff con las ley de Ohm , utilizadas para el calculo de corriente y voltajes.
 
-2.Marco teoric:
+2.Marco teorico.
 
 ![leyes de Kirchof](https://user-images.githubusercontent.com/105687375/169203486-6c29d9d3-afcc-4825-8a27-ebcfc2c7bc92.png)
 
