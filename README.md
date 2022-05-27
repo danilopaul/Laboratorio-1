@@ -80,7 +80,12 @@ En conclusión, mediante el uso del simulador Tinkercard, se pudo armar el circu
 
 En la estructura del circuito dado se pudo observar que se cumple la ley de Kirchhoff de corrientes y de voltaje, ya que se determinó que en este circuito existes tres trayectorias para el voltaje y 5 nodos para la corriente los cuales cumplieron con la definición de dicha ley.
 
-Finalmente, las leyes de Kirchhoff están estrechamente relacionada con la ley de Ohm, ya que estas dos permiten calcular la corriente, voltaje y resistencia de este circuito.   
+Finalmente, las leyes de Kirchhoff están estrechamente relacionada con la ley de Ohm, ya que estas dos permiten calcular la corriente, voltaje y resistencia de este circuito
+
+9. Bibliografia:
+
+ Floyd, TL (2007). Principios de Circuitos Eléctricos. CDMX: Persona Educación.
+ 
 
 
 
