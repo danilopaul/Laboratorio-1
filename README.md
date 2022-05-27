@@ -19,9 +19,13 @@ de distintas variables, mismas que permitan comprobar , si se cumple o no las le
 
 3.Requisitos previos
 
-![image](https://user-images.githubusercontent.com/105687213/170616922-3cf892a6-a78d-45d7-b9e6-0f8c0e1c4cd4.png)
+![image](https://user-images.githubusercontent.com/105687213/170617942-024245b0-1c0e-406f-896c-17c61a96d7bc.png)
 
-![image](https://user-images.githubusercontent.com/105687213/170616937-a65cf4f3-9203-43e2-a46f-7e152c47067a.png)
+![image](https://user-images.githubusercontent.com/105687213/170617967-89acab03-9c70-428e-b1a5-9136ec96fbba.png)
+
+
+
+
 
 4.Materiales y equipos requeridos
 
