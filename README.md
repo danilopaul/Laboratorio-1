@@ -45,6 +45,11 @@ de distintas variables, mismas que permitan comprobar , si se cumple o no las le
 
 ![image](https://user-images.githubusercontent.com/105687213/170617586-0588e25d-6b57-4e75-ab00-714475c51045.png)
 
+5.3.1. Compare los resultados medidos con los valores obtenidos al analizar el circuito
+analíticamente y concluya al respecto.
+
+En conclusión, en este circuito mixto se identificaron cinco nodos, en los cuales la corriente total que entra a cada nodo, es igual a la suma de las corrientes que salen de dicho nodo, con ello se detallo que el valor calculado varia en muy poca medida el valor medido mediante el simulador, por lo cual se puede decir que son los mismos valores. 
+
 6.Calculo de errores de mediciones
 
 
