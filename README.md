@@ -16,3 +16,6 @@ de distintas variables, mismas que permitan comprobar , si se cumple o no las le
 
 ![leyes de Kirchof](https://user-images.githubusercontent.com/105687375/169203486-6c29d9d3-afcc-4825-8a27-ebcfc2c7bc92.png)
 
+HOLAAAAAAA LADYYYYYYYY
+ESTAAAAAAAAS
+AHIIIIIIIIIIIIIII
