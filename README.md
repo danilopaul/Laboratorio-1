@@ -52,6 +52,31 @@ En conclusión, en este circuito mixto se identificaron cinco nodos, en los cual
 
 6.Calculo de errores de mediciones
 
+•	Resistencia 1
+
+![image](https://user-images.githubusercontent.com/105687213/170620885-9f326330-0b61-4439-acad-e545fbd36031.png)
+
+•	Resistencia 2
+
+![image](https://user-images.githubusercontent.com/105687213/170620951-5a1b31ca-b6ea-47be-bfd4-a804b01f4253.png)
+
+•	Resistencia 3
+
+![image](https://user-images.githubusercontent.com/105687213/170621018-84b7220d-af95-4a83-a5db-051f2fe08c98.png)
+
+•	Resistencia 4
+
+![image](https://user-images.githubusercontent.com/105687213/170621079-4719539c-4c09-4620-bc69-bd03b4152b6a.png)
+
+•	Resistencia 5
+
+![image](https://user-images.githubusercontent.com/105687213/170621111-575d46de-0184-43f8-a589-c48e2806261b.png)
+
+
+
+
+
+
 
 
 
