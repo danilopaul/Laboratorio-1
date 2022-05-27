@@ -45,6 +45,9 @@ de distintas variables, mismas que permitan comprobar , si se cumple o no las le
 
 ![image](https://user-images.githubusercontent.com/105687213/170617586-0588e25d-6b57-4e75-ab00-714475c51045.png)
 
+6.Calculo de errores de mediciones
+
+
 
 
 
