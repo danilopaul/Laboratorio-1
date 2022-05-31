@@ -74,6 +74,8 @@ En conclusión, en este circuito mixto se identificaron cinco nodos, en los cual
 
 7. Video:
 
+https://www.youtube.com/watch?v=3T6IiqaXN8k
+
 8. Conclusiones:
 
 En conclusión, mediante el uso del simulador Tinkercard, se pudo armar el circuito, con el fin de realizar una simulación de las medidas del voltaje y corriente del circuito, esto con la ayuda del multímetro, además con los datos registrados se logró comprobar que el error de medida de la corriente y el voltaje existente es mínimo.
