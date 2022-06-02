@@ -27,6 +27,9 @@ Trayectorias
 
 ![image](https://user-images.githubusercontent.com/105687213/171634294-434428bf-0d3f-4c6c-b97b-1a59a9c04006.png)
 
+![image](https://user-images.githubusercontent.com/105687213/171634696-0347c216-e272-4d51-9645-64e17c7c7126.png)
+
+
 
 
 
