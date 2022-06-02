@@ -29,6 +29,11 @@ Trayectorias
 
 ![image](https://user-images.githubusercontent.com/105687213/171634854-5babd1ea-53fe-47aa-9ecb-6c3a00c61c90.png)
 
+Nodos
+
+![image](https://user-images.githubusercontent.com/105687213/171636111-ab4dba67-0f76-46f4-9283-93d1df7ef048.png)
+
+
 
 
 
