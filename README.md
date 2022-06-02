@@ -23,6 +23,10 @@ de distintas variables, mismas que permitan comprobar , si se cumple o no las le
 
 ![image](https://user-images.githubusercontent.com/105687213/170617967-89acab03-9c70-428e-b1a5-9136ec96fbba.png)
 
+Trayectorias
+
+![image](https://user-images.githubusercontent.com/105687213/171634294-434428bf-0d3f-4c6c-b97b-1a59a9c04006.png)
+
 
 
 
